@@ -1,0 +1,8 @@
+.vscode
+./tri
+objects
+test_list
+test_exec
+tri
+*.txt
+recover.c
